@@ -1,0 +1,12 @@
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\bin\Debug\netcoreapp2.0\Sos2.deps.json
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\bin\Debug\netcoreapp2.0\Sos2.runtimeconfig.json
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\bin\Debug\netcoreapp2.0\Sos2.runtimeconfig.dev.json
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\bin\Debug\netcoreapp2.0\Sos2.dll
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\bin\Debug\netcoreapp2.0\Sos2.pdb
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.csprojResolveAssemblyReference.cache
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.csproj.CoreCompileInputs.cache
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.AssemblyInfoInputs.cache
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.AssemblyInfo.cs
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.dll
+c:\users\adler\documents\visual studio 2017\Projects\Sos2\Sos2\obj\Debug\netcoreapp2.0\Sos2.pdb

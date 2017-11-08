@@ -1,0 +1,122 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.thec {
+    color: blueviolet;
+}
+
+.navbar-inverse {
+    background-color: #272424;
+    border-color: #080808;
+}
+
+.begin {
+    font-family: 'Baloo Chettan', cursive;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+button.ending {
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 22px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Nosifer', cursive;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button.ending2 {
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 15px 44px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 48px;
+    font-family: Crashcourse BB;
+    border-radius: 12px;
+    margin-right: 35px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button.ending3 {
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 22px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 34px;
+    font-family: 'Knewave', cursive;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+button.ending4 {
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 17px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    font-family: Blaize;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.3);
+    border: 2px solid black;
+}
+.wrapper {
+    display:grid;
+    grid-template-columns:repeat(2, 1fr);
+    grid-column-gap: 3em;
+    grid-row-gap: 10em;
+    grid-auto-rows:100px;
+    
+}
+.wrapper > div{
+    padding:1em;
+}
+.wrapper {
+    text-align: center;
+}
+
